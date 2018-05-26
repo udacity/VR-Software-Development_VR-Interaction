@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/UdacityVR/Scenes/01-TakeAVacation.unity
+  isLoaded: 1
+  isActive: 1
